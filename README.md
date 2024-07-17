@@ -36,5 +36,8 @@ docker images
 docker run -p 80:80 plant-disease-prediction-image:v1.0
 ```
 Go to Localhost and Docker container will be successfully deployed
+## Screenshots of the WebApp
+![Screenshot](s3.png)
+![Screenshot](ss3.png)
 
 
