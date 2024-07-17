@@ -39,5 +39,7 @@ Go to Localhost and Docker container will be successfully deployed
 ## Screenshots of the WebApp
 ![Screenshot](s3.png)
 ![Screenshot](ss3.png)
+### Contributors
+- [Sushant Kumar](https://github.com/sushantkrsky)
 
 
